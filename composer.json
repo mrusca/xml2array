@@ -1,0 +1,16 @@
+{
+    "name": "verdant/xml2array",
+    "description": "Convert from XML to array, array to XML, based on libs from lalit.org",
+    "license": "Apache-2.0",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.2",
+        "lib-libxml": "*",
+        "lib-pcre": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "verdant": ""
+        }
+    }
+}
